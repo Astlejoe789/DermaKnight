@@ -96,6 +96,7 @@ and open it in your browser
 ![predictions](demo_images/Prediction.png)
 ![predict](demo_images/Predictions2.png)
 
+
 ---
 
 ## ⚠️ Disclaimer
