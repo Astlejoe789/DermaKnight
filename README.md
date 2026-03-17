@@ -57,7 +57,7 @@ regions. Deployed via Streamlit + ngrok inside Google Colab.
 ## 🚀 How to Run
 
 ### Step 1 — Open in Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Wq-RZFtzC4uh7qWvsyTdYEDj7RE7IKGl)
 
 ### Step 2 — Enable GPU
 Runtime → Change Runtime Type → T4 GPU
@@ -106,10 +106,10 @@ treatment.
 ## 👥 Team
 | Name       | Role                 |
 |------------|----------------------|
-| [Member 1] | ML Model + Grad-CAM  |
-| [Member 2] | Data Preprocessing   |
-| [Member 3] | Streamlit UI         |
-| [Member 4] | Documentation        |
+| [Astlejoe789] | ML Model + Grad-CAM  |
+| [Harisha] | Data Preprocessing   |
+| [Daniyel] | Streamlit UI         |
+| [Jeyarikaran] | Documentation        |
 
 ---
 
