@@ -124,4 +124,4 @@ MIT License — free to use and modify
 
 ## 🎥 Demo
 
-![DermaKnight Demo](demo_images/124294-730508602.mp4)
+<video src="demo_images/124294-730508602.mp4" controls width="700"></video>
