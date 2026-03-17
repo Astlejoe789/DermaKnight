@@ -94,7 +94,7 @@ and open it in your browser
 
 ### GRADCAM Results
 ![predictions](demo_images/prediction.png)
-![predict](demo_images/Predictions2.png)
+![predict](demo_images/predictions2.png)
 
 
 ---
