@@ -106,10 +106,10 @@ treatment.
 ## 👥 Team
 | Name       | Role                 |
 |------------|----------------------|
-| [Astlejoe789] | ML Model + Grad-CAM  |
-| [Harisha] | Data Preprocessing   |
-| [Daniyel] | Streamlit UI         |
-| [Jeyarikaran] | Documentation        |
+| [Astlejoe789](https://github.com/Astlejoe789) | ML Model + Grad-CAM  |
+| [Harisha](https://github.com/24900903) | Data Preprocessing   |
+| [Daniyel](https://github.com/Daniyel09) | Streamlit UI         |
+| [Jeyarikaran](https://github.com/Jeyaarikaran) | Documentation        |
 
 ---
 
