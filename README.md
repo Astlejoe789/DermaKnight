@@ -56,7 +56,7 @@ regions. Deployed via Streamlit + ngrok inside Google Colab.
 
 ## 🚀 How to Run
 
-### Step 1 — Open in Google Colab
+### Step 1 — Open .ipynb file in Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Wq-RZFtzC4uh7qWvsyTdYEDj7RE7IKGl)
 
 ### Step 2 — Enable GPU
@@ -75,9 +75,12 @@ and open it in your browser
 ---
 
 ## 📁 Dataset
-- HAM10000 from Kaggle:
-  kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
-- Paper: Tschandl et al., 2018
+
+| Source | Details |
+|--------|---------|
+| [HAM10000 — Kaggle](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000) | 10,015 dermatoscopic images across 7 skin lesion classes |
+| [Tschandl et al., 2018 — Research Paper](https://doi.org/10.1038/sdata.2018.161) | Original paper: *The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions* |
+
 
 ---
 
@@ -104,12 +107,13 @@ treatment.
 ---
 
 ## 👥 Team
-| Name       | Role                 |
-|------------|----------------------|
-| [Astlejoe789](https://github.com/Astlejoe789) | ML Model + Grad-CAM  |
-| [Harisha](https://github.com/24900903) | Data Preprocessing   |
-| [Daniyel](https://github.com/Daniyel09) | Streamlit UI         |
-| [Jeyarikaran](https://github.com/Jeyaarikaran) | Documentation        |
+
+| 🧑‍💻 Member | 🔗 GitHub | 💼 Role |
+|:---:|:---:|:---:|
+| **Astlejoe** | [![GitHub](https://img.shields.io/badge/GitHub-Astlejoe789-181717?style=flat&logo=github)](https://github.com/Astlejoe789) | 🤖 ML Model + Grad-CAM |
+| **Harisha** | [![GitHub](https://img.shields.io/badge/GitHub-Harisha-181717?style=flat&logo=github)](https://github.com/24900903) | 🗂️ Data Preprocessing |
+| **Daniyel** | [![GitHub](https://img.shields.io/badge/GitHub-Daniyel09-181717?style=flat&logo=github)](https://github.com/Daniyel09) | 🎨 Streamlit UI |
+| **Jeyarikaran** | [![GitHub](https://img.shields.io/badge/GitHub-Jeyaarikaran-181717?style=flat&logo=github)](https://github.com/Jeyaarikaran) | 📝 Documentation |
 
 ---
 
