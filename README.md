@@ -93,7 +93,7 @@ and open it in your browser
 ![confusion matrix](<demo_images/Confusion Matrix.png>)
 
 ### GRADCAM Results
-![predictions](demo_images/Prediction.png)
+![predictions](demo_images/prediction.png)
 ![predict](demo_images/Predictions2.png)
 
 
