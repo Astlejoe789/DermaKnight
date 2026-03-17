@@ -87,13 +87,13 @@ and open it in your browser
 ## 📸 Results
 
 ### Grad-CAM Demo
-![Grad-CAM](results/gradcam_demo.png)
-
+![alt text](demo_images/DermaKnight.gif)
 ### Confusion Matrix
-![Confusion Matrix](results/confusion_matrix.png)
+![confusion matrix](<demo_images/Confusion Matrix.png>)
 
-### Training Curves
-![Training](results/training_curves.png)
+### GRADCAM Results
+![predictions](demo_images/Prediction.png)
+![predict](demo_images/predictions2.png)
 
 ---
 
@@ -120,10 +120,6 @@ treatment.
 ## 📜 License
 MIT License — free to use and modify
 
-
-
 ## 🎥 Demo
 
-<video src="demo_images/124294-730508602.mp4" controls width="700"></video>
-
-
+![DermaKnight Demo](demo_images/DermaKnight.gif)
