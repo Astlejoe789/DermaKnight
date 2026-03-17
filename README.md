@@ -16,8 +16,8 @@ This causes delayed melanoma detection and preventable deaths.
 ## 💡 Solution
 DermaKnight is a free AI tool that classifies skin lesions
 as Malignant or Benign using MobileNetV2 CNN trained on
-HAM10000 — with Grad-CAM heatmap showing exact suspicious
-regions. Deployed via Streamlit + ngrok inside Google Colab.
+HAM10000 — with exact suspicious
+\regions. Deployed via Streamlit + ngrok inside Google Colab.
 
 ---
 
@@ -87,7 +87,8 @@ and open it in your browser
 ## 📸 Results
 
 ### Grad-CAM Demo
-![alt text](demo_images/DermaKnight.gif)
+<img src="demo_images/DermaKnight.gif" width="800" alt="Grad-CAM Demo">
+
 ### Confusion Matrix
 ![confusion matrix](<demo_images/Confusion Matrix.png>)
 
@@ -119,7 +120,3 @@ treatment.
 
 ## 📜 License
 MIT License — free to use and modify
-
-## 🎥 Demo
-
-![DermaKnight Demo](demo_images/DermaKnight.gif)
