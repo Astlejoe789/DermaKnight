@@ -108,14 +108,7 @@ treatment.
 
 ---
 
-## 👥 Team
 
-| 🧑‍💻 Member | 🔗 GitHub | 💼 Role |
-|:---:|:---:|:---:|
-| **Astlejoe** | [![GitHub](https://img.shields.io/badge/GitHub-Astlejoe789-181717?style=flat&logo=github)](https://github.com/Astlejoe789) | 🤖 ML Model + Grad-CAM |
-| **Harisha** | [![GitHub](https://img.shields.io/badge/GitHub-Harisha-181717?style=flat&logo=github)](https://github.com/24900903) | 🗂️ Data Preprocessing |
-| **Daniyel** | [![GitHub](https://img.shields.io/badge/GitHub-Daniyel09-181717?style=flat&logo=github)](https://github.com/Daniyel09) | 🎨 Streamlit UI |
-| **Jeyarikaran** | [![GitHub](https://img.shields.io/badge/GitHub-Jeyaarikaran-181717?style=flat&logo=github)](https://github.com/Jeyaarikaran) | 📝 Documentation |
 
 ---
 
